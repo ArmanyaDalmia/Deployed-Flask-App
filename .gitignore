@@ -125,4 +125,3 @@ dmypy.json
 .pyre/
 aws-auth-patch.yml
 .env_file
-.env_file
