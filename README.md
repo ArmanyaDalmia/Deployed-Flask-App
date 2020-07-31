@@ -1,4 +1,4 @@
-The App is not currently live due to the costs associated with deploying using AWS services
+The API is not currently live due to the costs associated with deploying using AWS services
 
 # Deploying a Flask API
 
